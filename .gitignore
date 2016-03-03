@@ -1,3 +1,6 @@
+librf24-bcm.so.1.0
+utility/includes.h
+
 *.bak
 *.o
 .*.swp
